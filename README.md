@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipikamanni
 - 👀 I’m interested in Wordpress Development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web Development projects
 - 📫 How to reach me - by email dipika019manni@gmail.com
 
 <!---
