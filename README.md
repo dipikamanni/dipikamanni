@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipikamanni
+- 👋 Hi, I’m Dipika Mehra
 - 👀 I’m interested in Wordpress Development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on web Development projects
